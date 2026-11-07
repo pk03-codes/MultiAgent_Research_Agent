@@ -2,6 +2,8 @@
 
 > **Coeus** is an autonomous, publication-grade scientific research engine. Instead of relying on a single prompt, Coeus deploys a collaborative swarm of specialized cognitive agents to discover, extract, synthesize, and rigorously fact-check complex scientific and technical topics with zero hallucinations.
 
+🌐 Live Demo: https://multi-agent-research-agent-sooty.vercel.app/
+
 ---
 
 ## 🌟 Key Highlights
@@ -232,4 +234,5 @@ streamlit run app.py
 Returns an array of previously evaluated research dossiers.
 
 ---
+
 
