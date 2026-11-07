@@ -139,7 +139,7 @@ flowchart TD
 Clone the repository and set up your backend environment variables:
 
 ```bash
-git clone https://github.com/your-username/coeus.git
+git clone https://github.com/pk03-codes/MultiAgent_Research_Agent
 cd coeus
 ```
 
